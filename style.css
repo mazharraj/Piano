@@ -13,8 +13,8 @@ html {
 .container {
   background-color: #000000;
   color: #d4d1d1;
+  width: full;
   padding: 20px;
-  width: 760px;
   border-radius: 20px;
 }
 .piano-header {
@@ -78,7 +78,7 @@ html {
 }
 .white {
   background-color: #fff;
-  width: 74px;
+  width: 70px;
   height: 230px;
   border-radius: 5px;
   border: 1px solid #000000;
